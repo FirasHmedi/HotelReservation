@@ -5,8 +5,6 @@ import {
     StyleSheet,
     Image,
     TouchableOpacity,
-    Modal,
-    TextInput
 } from 'react-native';
 
 import HotelRating from './HotelRating';
